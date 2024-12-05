@@ -50,7 +50,7 @@ function App() {
         </div>
         
         <footer className="mt-12 text-center text-sm text-white/40">
-          © {new Date().getFullYear()} • Built with React
+          © {new Date().getFullYear()} • Gabor Gal
         </footer>
       </div>
     </main>
