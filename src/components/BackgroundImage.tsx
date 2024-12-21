@@ -5,7 +5,7 @@ export function BackgroundImage() {
     <div 
       className="absolute inset-0"
       style={{
-        backgroundImage: `url(/background.jpg)`,
+        backgroundImage: `url(/background.mp4)`,
         backgroundSize: 'cover',
         backgroundPosition: 'center',
       }}
